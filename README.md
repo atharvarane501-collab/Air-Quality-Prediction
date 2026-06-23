@@ -41,7 +41,7 @@ Air Quality Prediction is a Machine Learning project developed to predict the Ai
 
 ## 👨‍💻 Team Members
 
-* Atharva Kundan Rane
+* Atharva Kundan Rane (Team Leader)
 * Tejas Anil Rane
 * Litesh Dilip Patil
 * Akshay Wagh
